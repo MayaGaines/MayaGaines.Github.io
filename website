@@ -1,0 +1,39 @@
+<!doctype html>
+
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="website.css">
+<title>	Pasta Website</title>
+</head> 
+
+<body>
+
+<body style="background-color: #ffccff">
+<h1 align="center">TYPES OF PASTA</h1>
+
+<h2 align="center"> ALfredo Pasta </h2>
+<p align="center">
+<img src="vegan-alfredo-sauce-pasta9.jpg" > </p>
+ </p>
+<h3 align="center"> Mac'n Cheese</h3>
+<p align="center">
+<img src="mac-cheese2.jpg" >
+<h4 align="center"> Ravioli</h4>
+<p align="center">
+<img src="ravioli.jpg" >
+<h5 align="center"> Mac 'n Cheese Pizza</h5>
+<p align="center">
+<img src="pizza-mnc.jpeg">
+<h6 align="center"> Lasagna</h6>
+<p align="center">
+<img src="lasagna.jpg">
+<br>
+<h7 align="center"> Spaghetti</h7>
+<p align="center">
+<img src="391010.jpg">
+<br>
+<h8 align=>Spaghettios</h8>
+<p align="center">
+<img src="pastas.jpg">
+</html>
